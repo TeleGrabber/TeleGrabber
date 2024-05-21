@@ -1,5 +1,5 @@
 
-<p align="center"><img src="./face.png"/></p>
+<p align="center"><img src="./face.png"/></p> 
 <h3 align="center">I'm a Full-Stack Developer<br/><br/>
 I'm programmer who has excelled in learning Java, Python, Web.<br/><br/>
 I mainly specialize in Backend, but I am not deprived of the ability to put together something easy or make a simple design (Frontend).</h3>

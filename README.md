@@ -1,8 +1,6 @@
 
 <p align="center"><img src="./faces.png"/></p> 
-<h3 align="center">I'm a Full-Stack Developer<br/><br/>
-I'm programmer who has excelled in learning Java, Python, Web.<br/><br/>
-I mainly specialize in Backend, but I am not deprived of the ability to put together something easy or make a simple design (Frontend).</h3>
+<h3 align="center">Introducing our Telegram bot that allows you to forward all content from any Telegram channel to your own. Seamlessly integrate updates, posts, and media from your favorite channels directly to your personal or group channel. Stay updated and manage your content effortlessly with our easy-to-use bot.</h3>
 
 ### My stacks:
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
